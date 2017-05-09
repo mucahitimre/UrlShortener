@@ -1,0 +1,146 @@
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\csc.exe
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\csc.exe.config
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\csc.rsp
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\csi.exe
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\csi.exe.config
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\csi.rsp
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.AppContext.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Console.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.IO.Compression.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.IO.FileSystem.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.IO.Pipes.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Security.AccessControl.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Security.Claims.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Threading.Thread.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.ValueTuple.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Xml.XPath.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\vbc.exe
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\vbc.exe.config
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\vbc.rsp
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\VBCSCompiler.exe
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\UrlShortener.dll.config
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\UrlShortener.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\UrlShortener.pdb
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\EntityFramework.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\EntityFramework.SqlServer.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\System.Web.Helpers.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\System.Web.Mvc.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\System.Web.Razor.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\System.Web.Webpages.Deployment.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\System.Web.Webpages.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\System.Web.Webpages.Razor.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\EntityFramework.xml
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\EntityFramework.SqlServer.xml
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\System.Web.Razor.xml
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\System.Web.Webpages.xml
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\System.Web.Webpages.Deployment.xml
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\System.Web.Webpages.Razor.xml
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\System.Web.Helpers.xml
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\bin\System.Web.Mvc.xml
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\obj\Debug\UrlShortener.csprojResolveAssemblyReference.cache
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\obj\Debug\UrlShortener.dll
+c:\users\ozzy\documents\visual studio 2017\Projects\UrlShortener\UrlShortener\obj\Debug\UrlShortener.pdb
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\csc.exe
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\csc.exe.config
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\csc.rsp
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\csi.exe
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\csi.exe.config
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\csi.rsp
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.AppContext.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Console.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\vbc.exe
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\vbc.exe.config
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\vbc.rsp
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\UrlShortener.dll.config
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\UrlShortener.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\UrlShortener.pdb
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\EntityFramework.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\EntityFramework.SqlServer.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\System.Web.Helpers.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\System.Web.Mvc.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\System.Web.Razor.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\System.Web.Webpages.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\EntityFramework.xml
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\EntityFramework.SqlServer.xml
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\System.Web.Razor.xml
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\System.Web.Webpages.xml
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\System.Web.Helpers.xml
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\bin\System.Web.Mvc.xml
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\obj\Debug\UrlShortener.dll
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\obj\Debug\UrlShortener.pdb
+C:\Users\Ozzy\Documents\urlshortener\UrlShortener\obj\Debug\UrlShortener.csprojResolveAssemblyReference.cache

@@ -1,0 +1,112 @@
+﻿@model UrlShortener.Models.ViewModel.ShWM
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Url Kısaltıcı</h2>
+
+
+
+<div class="row">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                @using (@Html.BeginForm("Create", "Home", FormMethod.Post, new { name = "myForm", onsubmit = "return validateForm()" }))
+                {
+                    @Html.ValidationSummary(true)
+
+                    @Html.LabelFor(m => m.Shortener.LongUrl) <span> : </span> @Html.TextBoxFor(m => m.Shortener.LongUrl, new { required = "required", placeholder = "Bir Url Giriniz", @style = "width:80%" })
+                    <input type="submit" class="btn btn-danger" value="Oluştur" />
+                }
+            </div>
+            <hr />
+            <br />
+            @{
+                <div class="col-lg-12">
+                    @Html.LabelFor(m => m.Shortener.ShortUrl) : @Html.TextBoxFor(m => m.Shortener.ShortUrl, new { @id = "NewUrl", @style = "width:50%" })
+                    <button type="button" onclick="copy()">Kopyala</button>
+                </div>
+
+            }
+
+        </div>
+    </div>
+    <br />
+    <br />
+    <hr />
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h4>Geçmiş</h4>
+                <p>Daha önce oluşturduğunuz kısa linkler.</p>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Url</th>
+                            <th>Kısa Url</th>
+                            <th>Oluşturma Tarihi</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+
+                            List<string> classDizisi = new List<string> { "info", "active" };
+                            int i = 0;
+                            foreach (var item in Model.ShortenerList)
+                            {
+                                <tr class="@classDizisi[i]">
+                                    <td class="col-lg-7"><a href="@item.LongUrl">@item.LongUrl</a></td>
+                                    <td class="col-lg-3"><a href="@item.ShortUrl">@item.ShortUrl</a></td>
+                                    <td class="col-lg-2">@($"{@item.CreateTime:dd/MM/yy}") <br /> @($"{@item.CreateTime:HH:mm:ss}")</td>
+                                </tr>
+                                i++;
+                                if (i > 1)
+                                {
+                                    i = 0;
+                                }
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function copy() {
+            $("#NewUrl").select();
+            document.execCommand('copy');
+            var adres = (document).getElementById('NewUrl').value;
+            if (!(document).getElementById('NewUrl').value) {
+                swal("Hata!", 'Önce Url Kısaltma işlemi yapınız!', "error");
+
+            } else {
+                swal({
+                    title: "Adres Kopyalandı!",
+                    text: '<a target="_blank" href="' + adres + '">' + adres + '</a>',
+                    html: true,
+                    confirmButtonText: "Tamam"
+                });
+            }
+            $(".confirm").click(function () {
+                document.getElementById("Shortener_LongUrl").value = "";
+                document.getElementById("NewUrl").value = "";
+            });
+        };
+        function validateForm() {
+            var x = document.forms["myForm"]["Shortener.LongUrl"].value;
+            if (x.includes("https://") || x.includes("http://") || x.includes("www.")) {
+                return true;
+            } else {
+                sweetAlert("Oops...", "Geçerli Bir Url Giriniz", "error");
+                return false;
+            }
+        };
+        document.getElementById("Shortener_LongUrl").focus();
+    </script>
+
+
+
+
+</div>
